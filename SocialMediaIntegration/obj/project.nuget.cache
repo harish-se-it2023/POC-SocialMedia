@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfF8xMrjjmoBtHzRvKko7ILW15NkJU8ImGm/m8vUVYCkXwFZtC6WVutroRmaZWbeYX4kKGA2KSZMunpcRrEGzQ==",
+  "success": true,
+  "projectFilePath": "/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/SocialMediaIntegration.csproj",
+  "expectedPackageFiles": [
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.http/6.0.0/microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/microsoft.visualstudio.validation/17.0.64/microsoft.visualstudio.validation.17.0.64.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/polly/7.2.3/polly.7.2.3.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/reddit.net.client/2.3.0/reddit.net.client.2.3.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/system.net.http.json/6.0.0/system.net.http.json.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/meghanapuligalla/.nuget/packages/system.text.json/6.0.6/system.text.json.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

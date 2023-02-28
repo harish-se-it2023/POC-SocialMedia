@@ -1,0 +1,12 @@
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/bin/Debug/net7.0/SocialMediaContract.deps.json
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/bin/Debug/net7.0/SocialMediaContract.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/bin/Debug/net7.0/SocialMediaContract.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.csproj.AssemblyReference.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.AssemblyInfoInputs.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.AssemblyInfo.cs
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.csproj.CoreCompileInputs.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/refint/SocialMediaContract.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/SocialMediaContract.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaContract/obj/Debug/net7.0/ref/SocialMediaContract.dll

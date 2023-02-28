@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QKILGli9iJJVXU2XiimN+y+GdbzLEpKSiieobYkoqMM=",
+  "Source": "SocialMediaRestApi",
+  "BasePath": "_content/SocialMediaRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
