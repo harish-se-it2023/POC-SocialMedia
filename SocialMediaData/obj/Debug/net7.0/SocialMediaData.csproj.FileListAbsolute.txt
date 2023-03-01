@@ -1,0 +1,15 @@
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/bin/Debug/net7.0/SocialMediaData.deps.json
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/bin/Debug/net7.0/SocialMediaData.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/bin/Debug/net7.0/SocialMediaData.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/bin/Debug/net7.0/SocialMediaContract.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/bin/Debug/net7.0/SocialMediaContract.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.csproj.AssemblyReference.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.AssemblyInfoInputs.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.AssemblyInfo.cs
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.csproj.CoreCompileInputs.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.csproj.CopyComplete
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/refint/SocialMediaData.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/SocialMediaData.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaData/obj/Debug/net7.0/ref/SocialMediaData.dll

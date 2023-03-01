@@ -1,0 +1,15 @@
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/bin/Debug/net7.0/SocialMediaIntegration.deps.json
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/bin/Debug/net7.0/SocialMediaIntegration.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/bin/Debug/net7.0/SocialMediaIntegration.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/bin/Debug/net7.0/SocialMediaContract.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/bin/Debug/net7.0/SocialMediaContract.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.csproj.AssemblyReference.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.AssemblyInfoInputs.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.AssemblyInfo.cs
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.csproj.CoreCompileInputs.cache
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.csproj.CopyComplete
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/refint/SocialMediaIntegration.dll
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/SocialMediaIntegration.pdb
+/Users/meghanapuligalla/Projects/TestRestApp/SocialMediaIntegration/obj/Debug/net7.0/ref/SocialMediaIntegration.dll
